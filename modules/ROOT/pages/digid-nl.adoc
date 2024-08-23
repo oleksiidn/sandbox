@@ -1,0 +1,20 @@
+= DigiD / The Netherlands
+
+https://github.com/MinBZK/woo-besluit-broncode-digid?tab=readme-ov-file[Git repository].
+
+What is DigiD?
+
+Your DigiD allows you to identify yourself when making arrangements on the internet, such as with the government, educational institutes, healthcare institutions or your pension fund.
+
+Your DigiD allows you to log in anywhere easily and securely. This ensures that your personal data are always protected.
+
+== Login methods
+
+You can identify yourself in differhttps://xxxent ways. Sometimes logging in with a password is sufficient. However, more and more organisations require that you use your phone to log in.
+
+* DigiD app - the easiest way to log in securely
+* SMS verification - logging in with an SMS verification code
+* username and password - logging in with username and password
+* identity card - logging in with identity card for access to particularly privacy-sensitive data
+
+https://www.digid.nl/en/what-is-digid[More information].
