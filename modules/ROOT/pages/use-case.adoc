@@ -1,0 +1,3 @@
+= Use case
+
+The use case serves as a demonstration of how composition building blocks can illustrate an average interaction with e-government services. For further details, please refer to the specific use case.
