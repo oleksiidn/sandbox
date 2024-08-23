@@ -1,5 +1,6 @@
 * xref:building-block.adoc[]
 ** xref:x-road.adoc[]
+** xref:open-imis.adoc[]
 * xref:use-case.adoc[]
 ** xref:usct-full.adoc[]
 ** xref:usct-mini.adoc[]
