@@ -1,0 +1,5 @@
+= Pseudovote-cdoc / E-Voting
+
+https://github.com/infoaed/pseudovote-cdoc[Git repository].
+
+Pseudonym generation ceremony for Estonian eID encrypted CDOC containers
