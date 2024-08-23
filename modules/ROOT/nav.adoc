@@ -5,6 +5,7 @@
 ** xref:digid-nl.adoc[]
 ** xref:pseudovote-cdoc.adoc[]
 ** xref:veera-styles.adoc[]
+** xref:digidoc4j.adoc[]
 * xref:use-case.adoc[]
 ** xref:usct-full.adoc[]
 ** xref:usct-mini.adoc[]
