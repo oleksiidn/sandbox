@@ -1,4 +1,4 @@
-name: Sandbox
+name: sandbox
 version: ~ # https://docs.antora.org/antora/latest/component-with-no-version/
 start_page: index.adoc
 title: Alternative GovStack Sandbox Documentation
