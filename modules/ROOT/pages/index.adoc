@@ -10,3 +10,10 @@ Open Source Code for the Public Administration https://opencode.de/en[link].
 == Publiccode
 
 https://publiccode.eu/en/
+
+
+== schleswig-holstein.de
+
+=== GitLab
+
+https://code.schleswig-holstein.de/explore/projects/starred
