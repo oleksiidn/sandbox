@@ -17,3 +17,11 @@ https://publiccode.eu/en/
 === GitLab
 
 https://code.schleswig-holstein.de/explore/projects/starred
+
+== European Digital Identity
+
+https://github.com/eu-digital-identity-wallet/
+
+== Sovereign Tech Fund
+
+https://www.sovereigntechfund.de/
