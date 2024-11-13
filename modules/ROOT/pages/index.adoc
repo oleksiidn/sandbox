@@ -25,3 +25,7 @@ https://github.com/eu-digital-identity-wallet/
 == Sovereign Tech Fund
 
 https://www.sovereigntechfund.de/
+
+== opencrvs - Civil registration for everyone
+
+https://www.opencrvs.org
